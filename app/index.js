@@ -26,7 +26,7 @@ module.exports = {
 
     	var st = word.split("").reverse().join(""); //split the values into array then reverse it 
 
-        return word === '' ? null : st === word ? true : st ;
+        return word === '' ? null : st === word ? true : st ; // if the word is empty it will return null or if the word same as the reverse string return true
     	
        
 	}
