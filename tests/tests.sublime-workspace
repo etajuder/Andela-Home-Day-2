@@ -1,0 +1,366 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"word",
+				"words"
+			],
+			[
+				"Re",
+				"RETIREMENT_AGE"
+			],
+			[
+				"pl",
+				"play"
+			],
+			[
+				"to",
+				"toEqual"
+			],
+			[
+				"m",
+				"Media"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"get",
+				"getPrimes"
+			],
+			[
+				"is",
+				"is_geo"
+			],
+			[
+				"arit",
+				"aritGeo"
+			],
+			[
+				"Fi",
+				"FizzBuzz"
+			],
+			[
+				"for",
+				"factorial"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"new",
+				"new_validate"
+			],
+			[
+				"err",
+				"error_code"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"sp",
+				"sprt"
+			],
+			[
+				"Ass",
+				"Assets"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/git/homeday1/Andela-Home-Day-1/tests/prime_test.js",
+		"/C/git/OOPLAB/app/index.js",
+		"/C/git/homeday1/Andela-Home-Day-1/tests/test.js",
+		"/C/git/homeday2/package.json",
+		"/C/git/javascript-demo-project/app/library.js",
+		"/C/git/homeday1/Andela-Home-Day-1/app/oop.js",
+		"/C/git/assignment/andelafirstassignment/package.json",
+		"/C/git/javascript-demo-project/tests/tests.js",
+		"/C/git/homeday1/Andela-Home-Day-1/app/index.js",
+		"/C/git/assignment/andelafirstassignment/tests/minmax_test.js",
+		"/C/git/assignment/andelafirstassignment/tests/aritGeo_test.js",
+		"/C/git/assignment/andelafirstassignment/app/index.js",
+		"/C/git/assignment/andelafirstassignment/README.md",
+		"/C/git/homeday1/Andela-Home-Day-1/package.json",
+		"/C/git/homeday1/package.json",
+		"/C/xampp/htdocs/p2p/package.json",
+		"/C/git/assignment/andelafirstassignment/tests/arithGeo_test.js",
+		"/C/git/assignment/andelafirstassignment/tests/tests.js",
+		"/C/git/andtest/andelafirstassignment/package.json",
+		"/C/git/caculator/spec/calculator-spec.js",
+		"/C/git/assignment/app/index.js",
+		"/C/git/assignment/tests/tests.js",
+		"/C/git/assignment/package.json",
+		"/C/git/caculator/calculator.js",
+		"/C/git/andtest/andelafirstassignment/app/index.js",
+		"/C/git/andtest/andelafirstassignment/tests/tests.js",
+		"/C/git/caculator/spec/calculator.js",
+		"/C/git/assignment/node_modules/jasmine/tasks/jasmine.js",
+		"/C/git/caculator/package.json",
+		"/C/xampp/htdocs/leon/vendor/composer/autoload_namespaces.php",
+		"/C/git/assignment/spec/support/jasmine.json",
+		"/C/git/assignment/node_modules/jasmine/lib/filters/console_spec_filter.js",
+		"/C/git/assignment/node_modules/jasmine/lib/examples/jasmine.json",
+		"/C/Users/JUDE/AppData/Local/Temp/Rar$DIa0.235/index.php",
+		"/C/git/andtest/andelafirstassignment/tests/findMinMax.js",
+		"/C/git/proj/tests.js",
+		"/C/xampp/htdocs/decor2/application/app/Http/Kernel.php",
+		"/C/xampp/htdocs/decor2/application/app/Http/Requests/LogUserInRequest.php",
+		"/C/xampp/htdocs/decor2/application/app/Design.php",
+		"/C/xampp/htdocs/decor2/application/install_files/install.php",
+		"/C/xampp/htdocs/luziko/vendor/composer/ClassLoader.php",
+		"/C/xampp/htdocs/luziko/vendor/composer/autoload_real.php",
+		"/C/xampp/htdocs/luziko/vendor/composer/autoload_psr4.php",
+		"/C/xampp/htdocs/leon/vendor/composer/autoload_psr4.php",
+		"/C/xampp/htdocs/smmkings/vendor/composer/autoload_real.php",
+		"/C/xampp/htdocs/smmkings/vendor/composer/autoload_psr4.php",
+		"/C/xampp/htdocs/smmkings/vendor/bitpay/php-client/examples/CreateInvoice.php",
+		"/C/xampp/htdocs/smmkings/vendor/bitpay/php-client/examples/CreateKeypairs.php",
+		"/C/xampp/htdocs/smmkings/vendor/bitpay/php-client/examples/SaveKeypairsToFilesystem.php",
+		"/C/xampp/htdocs/smmkings/vendor/bitpay/php-client/examples/judesaveload.php",
+		"/H/bitcoin/bitcoin.php",
+		"/H/bitcoin/payment-execution.php",
+		"/H/bitcoin/payment-validation.php",
+		"/H/bitcoin/fr.php",
+		"/H/bitpay-opencart-plugin-e9c3da1/src/upload/admin/controller/payment/bitpay.php",
+		"/H/bitpay-opencart-plugin-e9c3da1/src/upload/catalog/controller/payment/bitpay.php",
+		"/H/themeforest-6228450-notebook-web-app-and-admin-template/src/api/Slim/Slim.php",
+		"/C/xampp/htdocs/akbank/modules/akbank/routes.php",
+		"/C/xampp/htdocs/Script/includes/class-user.php",
+		"/C/xampp/htdocs/akbank/themes/akbank/views/admin/index.php",
+		"/C/Users/JUDE/AppData/Local/Temp/auth_model_core.php",
+		"/C/Users/JUDE/Downloads/newd/system_model_core.php",
+		"/C/xampp/htdocs/p2p/vendor/skrill-quick-master/src/SkrillRequest.php",
+		"/C/xampp/htdocs/smmkings/application/controllers/install.php",
+		"/C/xampp/htdocs/dropbox/index.php",
+		"/C/Users/JUDE/AppData/Local/Temp/Rar$DIa0.061/p2p_model.php",
+		"/C/xampp/htdocs/dropbox/2/index.php",
+		"/C/xampp/htdocs/dropbox/verification.php",
+		"/C/xampp/htdocs/akbank/vendor/skrill-quick-master/src/SkrillRequest.php",
+		"/C/xampp/htdocs/p2p/themes/p2p1/views/index.php",
+		"/C/xampp/htdocs/p2p/themes/p2p1/detail.php",
+		"/C/xampp/htdocs/p2p/themes/p2p2jag/detail.php",
+		"/C/xampp/htdocs/p2p/themes/p2p2/views/index.php",
+		"/C/xampp/htdocs/p2p/themes/p2p2/detail.php",
+		"/C/xampp/htdocs/akbank/modules/akbank/about.php",
+		"/H/p2p/p2p/themes/p2p1/views/index.php",
+		"/H/themeforest-6228450-notebook-web-app-and-admin-template/src/api/index.php",
+		"/C/Users/JUDE/AppData/Local/Temp/videos.php",
+		"/C/xampp/htdocs/smmkings/vendor/bitpay/php-client/examples/ConfigurationWithYamlFile.php",
+		"/C/xampp/htdocs/smmkings/vendor/composer/autoload_static.php",
+		"/C/Users/JUDE/AppData/Local/Temp/Rar$DIa0.336/database.php",
+		"/C/xampp/htdocs/smmkings/vendor/omnipay/coinbase/tests/GatewayTest.php",
+		"/C/xampp/htdocs/decor2/assets/js/install.min.js",
+		"/C/xampp/htdocs/decor2/assets/js/core.min.js",
+		"/C/Users/JUDE/AppData/Local/Temp/Rar$DIa0.261/index.php",
+		"/C/xampp/htdocs/decor2/application/app/Services/Installer.php",
+		"/C/xampp/htdocs/decor2/application/app/Http/Requests/Request.php",
+		"/C/xampp/htdocs/decor2/application/app/Http/Controllers/InstallController.php",
+		"/C/xampp/htdocs/decor2/application/app/Http/Controllers/Auth/AuthController.php",
+		"/C/xampp/htdocs/decor2/application/app/Http/routes.php",
+		"/C/xampp/htdocs/leon/vendor/composer/autoload_classmap.php",
+		"/C/xampp/htdocs/xvsms/objects/query.php",
+		"/C/xampp/htdocs/xvsms/functions/connection.php",
+		"/C/xampp/htdocs/xvsms/functions/error_success.php",
+		"/C/xampp/htdocs/xvsms/body/head.php",
+		"/C/xampp/htdocs/xvsms/up.php",
+		"/C/xampp/htdocs/xvsms/objects/upload_download.php",
+		"/C/xampp/htdocs/blog/config/database.php",
+		"/C/Users/JUDE/Documents/laravelprojects/expertconnect/config/database.php",
+		"/C/My Web Sites/canvas/planner5d.com/e/index.html",
+		"/C/Users/JUDE/AppData/Local/Temp/Rar$DIa0.865/loader-wizard.php",
+		"/C/Users/JUDE/Desktop/journal_download/Journal_2.7.0/OpenCart_2.x/system/engine/front.php",
+		"/C/xampp/htdocs/opencart/system/engine/front.php",
+		"/C/xampp/htdocs/nhomes/index.php",
+		"/C/xampp/htdocs/clloo/config.php",
+		"/C/Users/JUDE/Desktop/405pine/theme/theme.css",
+		"/C/xampp/htdocs/nhomes/partials/footer.php",
+		"/C/My Web Sites/kenburn/www.projectseven.com/products/galleries/igm2/examples/p7igm/p7IGMscripts.js",
+		"/C/My Web Sites/kenburn/www.projectseven.com/products/galleries/igm2/examples/p7igm/p7IGM01.css",
+		"/C/My Web Sites/kenburn/www.projectseven.com/products/galleries/igm2/examples/demo-01.html",
+		"/C/xampp/htdocs/nhomes/partials/header.php",
+		"/C/Users/JUDE/Desktop/index.html",
+		"/C/xampp/htdocs/blog/database/migrations/2016_07_11_113715_create_task_table.php",
+		"/C/xampp/htdocs/ind/wallpagejson.php",
+		"/C/xampp/htdocs/ind/productinsertold.php",
+		"/C/xampp/htdocs/ind/taskdelete.php",
+		"/C/xampp/htdocs/ind/wallpage 2.php",
+		"/C/Users/JUDE/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/26KG0YI6/init[1].js",
+		"/C/Users/JUDE/Desktop/crimealert/crimealert_side.php",
+		"/C/xampp/htdocs/blog/config/app.php",
+		"/C/xampp/htdocs/blog/server.php",
+		"/C/xampp/htdocs/blog/public/index.php",
+		"/C/xampp/htdocs/blog/bootstrap/autoload.php",
+		"/C/xampp/htdocs/blog/config/cache.php",
+		"/C/xampp/htdocs/blog/config/session.php",
+		"/C/xampp/htdocs/ind/productdetails.php",
+		"/C/xampp/htdocs/ind/ajax_php_filejson.php",
+		"/C/xampp/htdocs/fnb/application/views/admin/slide/custom_webpage_builder.php"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$con = mysql_connect(\"127.0.0.1\", \"root\", \"\");"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$con = mysql_connect(\"127.0.0.1\", \"root\", \"password\");"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tests.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
